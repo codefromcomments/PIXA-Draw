@@ -1,2 +1,2 @@
 # PIXA-Draw
-Please, downald TXT file and rename ".txt" to ".exe"
+Download the official installer from the Releases section!
